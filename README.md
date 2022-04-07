@@ -1,5 +1,8 @@
--:smirk: ola meu nome é jose augusto;
+# Sobre Mim
 
--:sob: eu estou aprendendo atualmente a programar jogos no Scrath e em JavaScript;
+- :smirk: ola meu nome é jose augusto;
 
--:stuck_out_tongue_winking_eye: eu tenho curiosidade em aprender a ptogramar paginas na web
+- :sob: eu estou aprendendo atualmente a programar jogos no Scrath e em JavaScript;
+
+- :stuck_out_tongue_winking_eye: eu tenho curiosidade em aprender a ptogramar paginas na web;
+- :sob: meu gmail para contato/jose.cruzetta@escola.pr.gov.br
